@@ -9,7 +9,7 @@ After you to bluid and upload code.
 #include <ESPAsyncWebServer.h>
 #include <SPIFFS.h>
 
-const char *ssid = "your network";
+const char *ssid = "your network blabla";
 const char *password = "your password";
 
 const int led = 5;
